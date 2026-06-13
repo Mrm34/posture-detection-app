@@ -1,2 +1,2 @@
 # posture-detection-app
-AI-based mobile application for real-time human posture detection using deep learning. Built with Flutter for frontend and TensorFlow for model integration. Provides real-time posture analysis with Firebase for authentication and data management.
+AI-based real-time posture detection mobile application. The system uses MediaPipe for human pose landmark extraction and Python Flask for backend processing of posture analysis. Flutter is used to build the cross-platform mobile interface, while Firebase is integrated for authentication and real-time storage of posture data such as daily and weekly reports. The application provides real-time feedback to help users monitor and improve their sitting posture.
